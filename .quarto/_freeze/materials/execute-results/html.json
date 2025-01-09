@@ -1,0 +1,12 @@
+{
+  "hash": "717671b43d974ca81051d66a40af0c8d",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Materials\"\nformat: html\n---\n\n\n\n\n## Quick Links\n\n- [Course Website](https://allegheny-college-ls-591-spring-2025.github.io/site/)\n- [Course GitHub Organization](https://github.com/allegheny-college-ls-591-spring-2025)\n\n## Content\n\n<details>\n<summary>Week One: Approaching Problems</summary>\n\n\n```{.markdown code-preview=\"slides/1-approaching-problems.qmd\" width=\"780\" height=\"500\"}\n```\n\n</details>\n\n\n\n### Data Display\n\n<details>\n<summary>Week Two: January 21, 23: Data Display</summary>\n\n```{.markdown code-preview=\"slides/data-display.qmd\" width=\"780\" height=\"500\"}\n```\n\n\n\n\n```{pyodide}\n\n```\n\n\n\n\nsetup notebook [in repo](https://github.com/allegheny-college-cmpsc-105-spring-2025/site/blob/main/code/temp.ipynb), [in site](code/temp.ipynb)\n\n[slides pdf asdfg](docs/slides/)\n</details>\n\n\n\n\n<details>\n<summary>Week Three: January 28, 30: Data Distortion</summary>\n</details>\n\n<details>\n<summary>Week Four: February 4, 7: Data Display in Real Time</summary>\n</details>\n\n\n<details>\n<summary>Week Five: February 11, 13: Interactive Display</summary>\n</details>\n\n### Data Gathering\n\n<details>\n<summary>Week Six: February 18, 20: Turning Anything Into Data</summary>\n</details>\n\n\n<details>\n<summary>Week Seven: February 25, 27: Web Data Analytics and Scraping</summary>\n</details>\n\n\n<details>\n<summary>Week Eight: March 11, 13: Data Entry and Storage with Pandas</summary>\n</details>\n\n### Data Processing\n\n<details>\n<summary>Week Nine: March 18, 20: Statistics</summary>\n</details>\n\n\n<details>\n<summary>Week Ten: March 25, 27: Data Transformations</summary>\n</details>\n\n\n<details>\n<summary>Week Eleven: April 1, 3: Modeling and Overfitting</summary>\n</details>\n\n\n<details>\n<summary>Week Twelve: April 8: Filtering</summary>\n</details>\n\n### Data Storytelling\n\n<details>\n<summary>Week Thirteen: April 15, 17: Hypothesis Driven Analysis</summary>\n</details>\n\n<details>\n<summary>Week Fourteen: April 22, 24: Storytelling Challenge</summary>\n</details>\n\n<details>\n<summary>Week Fifteen: April 29: Project Preparation</summary>\n</details>\n\n### Final Presentations\n\n- Thursday, May 1st, 2025 at 7:00 PM: Final Project Lightning Talks\n\n",
+    "supporting": [
+      "materials_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

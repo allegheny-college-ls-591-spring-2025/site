@@ -1,0 +1,101 @@
+---
+title: "Week 1: Welcome"
+subtitle: "LS 591 Computational Skills and Problem Solving"
+author: "Morgan Green & Emily Graber"
+format: revealjs
+slide-number: true
+touch: true
+controls: true
+---
+
+## Welcome to LS 591!
+
+### Agenda
+
+::: incremental
+- Pizza + Ice Breaker!
+- Course Overview
+- Departmental Values
+- Activity
+- Discord Access, GitHub Accounts
+:::
+
+## Tell us about yourself
+
+::: {.column width="50%"}
+::: incremental
+- Name
+- Song that you would like to listen to
+- Favorite ice cream flavor
+- random fun fact?
+:::
+:::
+
+::: {.column width="40%"}
+![](https://cdn.vectorstock.com/i/1000v/32/72/ice-cream-cartoon-clip-art-in-gentle-vector-45753272.jpg)
+:::
+
+## Course Overview
+
+::: incremental
+- This course is a review of computational skills and problem solving strategies that are foundational to Computational Expression (CMPSC 100)
+- Hands-on learning activities will contribute to team-building and practice widely-applicable strategies for reasoning.
+- 2 credits, pass/fail
+- It is imperative to attend class because activities take place in class, collaboratively
+- If you know you cannot attend all the classes, please message Prof. Graber and Green!
+:::
+
+## Course Overview
+
+::: incremental
+The benefits of participating include
+
+- reviewing & learning how to organize and find files on your computer
+- reviewing & learning tricks for troubleshooting computer problems
+- reviewing & practicing problem-solving skills
+- reviewing & practicing algebra-based logic
+- **guaranteed slot in CMPSC 100 next semester**
+- **one extra homework token for CMPSC 100**
+:::
+
+## Activities
+
+::: incremental
+Each week, we have a group activity planned:
+
+- Making PB&J sandwiches
+- Locating Mario & scavenger hunt
+- Typing + Wikipedia races
+- Computational jeopardy
+- Estimation 
+:::
+
+## PB&J Activity
+
+::: incremental
+- Split into two groups 
+- Write instructions for your professors to make a PB&J sandwich [here](https://docs.google.com/document/d/1m7O--TNvEK-KEJefZ7IMXnZ2FGdbTyl9ZqxN2UYQn_0/edit?usp=sharing)!
+- Your professor should be able to follow the directions to make a PB&J even if they've never seen a sandwich before!
+:::
+
+::: footer
+Reference: [mit.edu](http://static.zerorobotics.mit.edu/docs/team-activities/ProgrammingPeanutButterAndJelly.pdf)
+:::
+
+## Questions
+
+::: incremental
+- Why do you think we did this activity?
+- Who played the role of the computer?
+- Who played the role of the programmer?
+- What general strategies did you adopt to get the desired results?
+:::
+
+## Discord Access, GitHub Accounts
+
+Send in [this google form](https://forms.gle/JHbMTTtyp8MrdvAd7) to let us know if you are all set up!
+
+- Bookmark the website
+- Check GitHub account
+- Check Discord access
+- Check intent to register

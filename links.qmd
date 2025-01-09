@@ -1,0 +1,19 @@
+---
+title: Quick Links
+format: html
+---
+
+## Discord
+
+First time only, use the invite link [here](https://discord.gg/Uy2CeGYT)
+
+Access the Group Study Discord Channel [here](https://discord.com/channels/877320365825749002/1326701591969140799)
+
+## GitHub
+
+- [Course Website](https://allegheny-college-ls-591-spring-2025.github.io/site/)
+- [Course GitHub Organization](https://github.com/allegheny-college-ls-591-spring-2025)
+
+## Canvas
+
+- [Canvas](https://allegheny.instructure.com/courses/12601)

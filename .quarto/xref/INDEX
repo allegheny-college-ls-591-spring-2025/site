@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "c565dae4"
+  },
+  "about.qmd": {
+    "about.html": "94bdf48c"
+  },
+  "materials.qmd": {
+    "materials.html": "085001e3"
+  },
+  "slides/1-approaching_problems.qmd": {
+    "1-approaching_problems.html": "06b94df9"
+  },
+  "slides/2-approaching_problems.qmd": {
+    "2-approaching_problems.html": "7df224a4"
+  },
+  "video-links.md": {
+    "video-links.html": "3de3e68d"
+  },
+  "activities.qmd": {
+    "activities.html": "f8e9ee4a"
+  },
+  "discord.qmd": {
+    "discord.html": "16448ca6"
+  },
+  "video-links.qmd": {
+    "video-links.html": "f2fd1edf"
+  },
+  "slides/approaching_problems.qmd": {
+    "approaching_problems.html": "82972903"
+  },
+  "slides/approaching-problems.qmd": {
+    "approaching-problems.html": "e91f5b0b"
+  },
+  "slides/logical-reasoning.qmd": {
+    "logical-reasoning.html": "c982fe17"
+  },
+  "links.qmd": {
+    "links.html": "a2496767"
+  }
+}

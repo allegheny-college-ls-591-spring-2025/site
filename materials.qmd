@@ -1,0 +1,49 @@
+---
+title: "Materials"
+format: html
+---
+
+## Quick Links
+
+- [Course Website](https://allegheny-college-ls-591-spring-2025.github.io/site/)
+- [Course GitHub Organization](https://github.com/allegheny-college-ls-591-spring-2025)
+- [Canvas](https://allegheny.instructure.com/courses/12601)
+
+## Week One: Approaching Problems
+
+<details>
+<summary>slides</summary>
+```{.markdown code-preview="slides/approaching-problems.qmd" width="780" height="500"}
+```
+[PB&J Activity](https://docs.google.com/document/d/1m7O--TNvEK-KEJefZ7IMXnZ2FGdbTyl9ZqxN2UYQn_0/edit?usp=sharing)
+</details>
+
+## Week Two: File Systems
+
+<details>
+<summary>slides</summary>
+</details>
+
+## Week Three: Computer Skills
+
+<details>
+<summary>slides</summary>
+</details>
+
+## Week Four: Mathematical Operations
+
+<details>
+<summary>slides</summary>
+</details>
+
+## Week Five: Abstraction and Estimation
+
+<details>
+<summary>slides</summary>
+</details>
+
+## Week Six: Review
+
+<details>
+<summary>slides</summary>
+</details>
