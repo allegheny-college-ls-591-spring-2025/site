@@ -3,12 +3,6 @@ title: "Materials"
 format: html
 ---
 
-## Quick Links
-
-- [Course Website](https://allegheny-college-ls-591-spring-2025.github.io/site/)
-- [Course GitHub Organization](https://github.com/allegheny-college-ls-591-spring-2025)
-- [Canvas](https://allegheny.instructure.com/courses/12601)
-
 ## Week One: Approaching Problems
 
 <details>
@@ -28,6 +22,7 @@ format: html
 
 <details>
 <summary>slides</summary>
+[Wikipedia Races](https://wiki-race.com/)
 </details>
 
 ## Week Four: Mathematical Operations

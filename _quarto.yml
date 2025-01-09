@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Group Study"
+  favicon: images/jigsaw.jpg
   navbar:
     left:
       - href: index.qmd

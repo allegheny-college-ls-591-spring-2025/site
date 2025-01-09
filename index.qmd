@@ -2,6 +2,8 @@
 title: "Syllabus: LS591.A1 Computational Skills and Problem Solving"
 ---
 
+![](images/jigsaw.jpg){width="10%"}
+
 Spring 2025  
 Module A (1/13/2025 - 2/28/2025)  
 2 Credits - pass/fail  
