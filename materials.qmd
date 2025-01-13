@@ -12,33 +12,34 @@ format: html
 [PB&J Activity](https://docs.google.com/document/d/1m7O--TNvEK-KEJefZ7IMXnZ2FGdbTyl9ZqxN2UYQn_0/edit?usp=sharing)
 </details>
 
-## Week Two: File Systems
+## Week Two: Executing Instructions
 
 <details>
 <summary>slides</summary>
 </details>
 
-## Week Three: Computer Skills
+## Week Three: File Systems
+
+<details>
+<summary>slides</summary>
+</details>
+
+## Week Four: Computer Skills
 
 <details>
 <summary>slides</summary>
 [Wikipedia Races](https://wiki-race.com/)
 </details>
 
-## Week Four: Mathematical Operations
+## Week Five: Mathematical Operations
 
 <details>
 <summary>slides</summary>
 </details>
 
-## Week Five: Abstraction and Estimation
+## Week Six: Abstraction and Estimation
 
 <details>
 <summary>slides</summary>
 </details>
 
-## Week Six: Review
-
-<details>
-<summary>slides</summary>
-</details>

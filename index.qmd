@@ -49,17 +49,17 @@ Successfully completing this course will give you:
 ## Schedule Outline
 
 - Week 1 - Jan 13 - [Approaching Problems](materials.qmd#week-one-approaching-problems)
-- Week 2 - Jan 17 - [File Systems](materials.qmd#week-two-file-systems)
-- Week 3 - Feb 3 - [Computer Skills](materials.qmd#week-three-computer-skills)
-- Week 4 - Feb 10 - [Mathematical Operations](materials.qmd#week-four-mathematical-operations)
-- Week 5 - Feb 17 - [Abstraction and Estimation](materials.qmd#week-five-abstraction-and-estimation)
-- Week 6 - Feb 24 - [Review](materials.qmd#week-six-review)
+- Week 2 - Jan 17 - [Executing Instructions](materials.qmd#week-two-executing-instructions)
+- Week 3 - Feb 3 - [File Systems](materials.qmd#week-three-file-systems)
+- Week 4 - Feb 10 - [Computer Skills](materials.qmd#week-four-computer-skills)
+- Week 5 - Feb 17 - [Mathematical Operations](materials.qmd#week-five-mathematical-operations)
+- Week 6 - Feb 24 - [Abstraction and Estimation](materials.qmd#week-six-abstraction-and-estimation)
 
 ## Activities
 
 - PB&J sandwiches (LO 2)
-- Files (LO 1)
 - Scavenger Hunt (LO 2)
+- Files (LO 1)
 - Typing + Searching (LO 1, L0 3)
 - Jeopardy (LO 4)
 - Estimation (LO 2, LO 4)
