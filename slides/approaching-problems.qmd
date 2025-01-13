@@ -58,6 +58,22 @@ The benefits of participating include
 - **one extra homework token for CMPSC 100**
 :::
 
+## CIS Shared Values
+
+![](https://www.cis.allegheny.edu/images/values.png)
+
+## What if?
+
+![](https://www.cis.allegheny.edu/images/values.png){.absolute top=0 right=-150 height="200"}
+
+:::{.column width=80%}
+::: incremental
+- a student knows they are going to be late to a one-on-one office hours appointment?
+- a student wants to submit their work late but not use a token?
+- a student has a question but has not reviewed notes or read the textbook?
+:::
+:::
+
 ## Activities
 
 ::: incremental
