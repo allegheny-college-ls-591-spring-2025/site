@@ -37,5 +37,8 @@
   },
   "links.qmd": {
     "links.html": "a2496767"
+  },
+  "slides/executing-instructions.qmd": {
+    "executing-instructions.html": "c55611c7"
   }
 }

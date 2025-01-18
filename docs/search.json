@@ -18,7 +18,7 @@
     "href": "materials.html#week-two-executing-instructions",
     "title": "Materials",
     "section": "Week Two: Executing Instructions",
-    "text": "Week Two: Executing Instructions\n\n\nslides"
+    "text": "Week Two: Executing Instructions\n\n\nslides\n\n\nScavenger Hunt Activity"
   },
   {
     "objectID": "materials.html#week-three-file-systems",
@@ -47,6 +47,118 @@
     "title": "Materials",
     "section": "Week Six: Abstraction and Estimation",
     "text": "Week Six: Abstraction and Estimation\n\n\nslides"
+  },
+  {
+    "objectID": "slides/executing-instructions.html#course-overview",
+    "href": "slides/executing-instructions.html#course-overview",
+    "title": "Week 2: Executing Instructions",
+    "section": "Course Overview",
+    "text": "Course Overview\n\n\nThis course is a review of computational skills and problem solving strategies that are foundational to Computational Expression (CMPSC 100)\nHands-on learning activities will contribute to team-building and practice widely-applicable strategies for reasoning.\n2 credits, pass/fail\nIt is imperative to attend class because activities take place in class, collaboratively\nIf you know you cannot attend all the classes, please message Prof. Graber and Green!"
+  },
+  {
+    "objectID": "slides/executing-instructions.html#course-overview-1",
+    "href": "slides/executing-instructions.html#course-overview-1",
+    "title": "Week 2: Executing Instructions",
+    "section": "Course Overview",
+    "text": "Course Overview\n\nThe benefits of participating include\n\nreviewing & learning how to organize and find files on your computer\nreviewing & learning tricks for troubleshooting computer problems\nreviewing & practicing problem-solving skills\nreviewing & practicing algebra-based logic\nguaranteed slot in CMPSC 100 next semester\none extra homework token for CMPSC 100"
+  },
+  {
+    "objectID": "slides/executing-instructions.html#activities",
+    "href": "slides/executing-instructions.html#activities",
+    "title": "Week 2: Executing Instructions",
+    "section": "Activities",
+    "text": "Activities\n\nEach week, we have a group activity planned:\n\nMaking PB&J sandwiches\nMario scavenger hunt\nTyping + Wikipedia races\nComputational jeopardy\nEstimation"
+  },
+  {
+    "objectID": "slides/executing-instructions.html#tell-us-about-yourself",
+    "href": "slides/executing-instructions.html#tell-us-about-yourself",
+    "title": "Week 2: Executing Instructions",
+    "section": "Tell us about yourself",
+    "text": "Tell us about yourself\n\nTwo Truths and a Lie"
+  },
+  {
+    "objectID": "slides/executing-instructions.html#scavenger-hunt-activity",
+    "href": "slides/executing-instructions.html#scavenger-hunt-activity",
+    "title": "Week 2: Executing Instructions",
+    "section": "Scavenger Hunt Activity",
+    "text": "Scavenger Hunt Activity\nUse the Activity Sheet linked here\n\n\nPart 1\n\nSplit into two groups\nWrite instructions for your classmates to find a hidden figurine\nYour classmates should be able to follow the instructions even if they’ve never been on campus before!"
+  },
+  {
+    "objectID": "slides/executing-instructions.html#scavenger-hunt-activity-1",
+    "href": "slides/executing-instructions.html#scavenger-hunt-activity-1",
+    "title": "Week 2: Executing Instructions",
+    "section": "Scavenger Hunt Activity",
+    "text": "Scavenger Hunt Activity\nUse the Activity Sheet linked here\n\n\nPart 2\n\nFollow the instructions of the other team\nTake note of confusing instructions and why they were confusing\nSend a discord message when you have found the figurine!"
+  },
+  {
+    "objectID": "slides/executing-instructions.html#questions",
+    "href": "slides/executing-instructions.html#questions",
+    "title": "Week 2: Executing Instructions",
+    "section": "Questions",
+    "text": "Questions\n\n\nWhy do you think we did this activity?\nWhat kinds of strategies did you use?\nWhat general strategies were effective?\nWhat general strategies were ineffective?"
+  },
+  {
+    "objectID": "slides/executing-instructions.html#exit-ticket",
+    "href": "slides/executing-instructions.html#exit-ticket",
+    "title": "Week 2: Executing Instructions",
+    "section": "Exit Ticket",
+    "text": "Exit Ticket\nSend in this google form !"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "",
+    "text": "Spring 2025\nModule A (1/13/2025 - 2/28/2025)\n2 Credits - pass/fail\nMondays 12-1:20 PM\nAlden 101"
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Description",
+    "text": "Description\nThis 2-credit course is designed to refresh topics foundational to Computational Expression (CMPSC 100) and to reinforce beneficial practices related to computer use for majors and non-majors. Topics include computer skills, tech literacy, pattern identification, and algebra-based logic for computational problems. Hands-on learning activities will contribute to team-building and practice widely-applicable strategies for reasoning. Students will receive individualized support, maximizing opportunities for success in computer and information science and related fields."
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\n\nNavigate computer with graphical and text-based tools\nSolve computational problems with hierarchical and sequential structures\nIdentify and evaluate resources for troubleshooting computational problems\nDescribe and use mathematical operators and algebra-based logic in computational problems\n\n\nOther Outcomes\nSuccessfully completing this course will give you:\n\nguaranteed slot in CMPSC 100 next semester\none extra homework token for CMPSC 100"
+  },
+  {
+    "objectID": "index.html#schedule-outline",
+    "href": "index.html#schedule-outline",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Schedule Outline",
+    "text": "Schedule Outline\n\nWeek 1 - Jan 13 - Approaching Problems\nWeek 2 - Jan 17 - Executing Instructions\nWeek 3 - Feb 3 - File Systems\nWeek 4 - Feb 10 - Computer Skills\nWeek 5 - Feb 17 - Mathematical Operations\nWeek 6 - Feb 24 - Abstraction and Estimation"
+  },
+  {
+    "objectID": "index.html#activities",
+    "href": "index.html#activities",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Activities",
+    "text": "Activities\n\nPB&J sandwiches (LO 2)\nMario Scavenger Hunt (LO 2)\nFiles (LO 1)\nTyping + Searching (LO 1, L0 3)\nJeopardy (LO 4)\nEstimation (LO 2, LO 4)"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Resources",
+    "text": "Resources\n\nDiscord - https://discord.com/channels/877320365825749002/1326701591969140799\nWebsite - https://allegheny-college-ls-591-spring-2025.github.io/site/\nGitHub - https://github.com/allegheny-college-ls-591-spring-2025\nVideos"
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Grading",
+    "text": "Grading\nCredit/No Credit. Grades will be determined based on participation. Participation includes attendance, asking questions in class, completing in-class group activities, taking notes, and completing individual work outside of class such as writing short reflections."
+  },
+  {
+    "objectID": "index.html#additional-policies",
+    "href": "index.html#additional-policies",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Additional Policies",
+    "text": "Additional Policies\n\nDiscord and GitHub\nDiscord and GitHub are required.\nDiscord is used to:\n\nreceive announcements about this course\nask questions to instructors and colleagues\nanswer questions collaboratively\nprovide a log of past questions/answers for reference\nreceive announcements about TL (technical leader) office hours\nhelp you stay in touch with alumni who often offer internship and job opportunities!\n\nGitHub is used for:\n\nFile sharing, storage, display (and more…)\nEveryone in LS 591 will be able to view and download files from the course GitHub page\nGitHub is used in all CIS department courses at Allegheny College\n\nPlease ensure your GitHub account is made using your Allegheny email address.\n\n\nAbsences\nDue to the short nature of the course, more than 1 absence will automatically result in a failing grade except in extenuating circumstances. Please talk to the instructors if you have further questions.\n\n\nEffective Collaboration\nWe encourage building community by collaborating with others to solve the problems presented in this course.\n\n\nSeeking Assistance\nStudents may seek assistance from their peers, Discord, TLs, instructors.\n\n\nHonor Code\nAllegheny College has a student-run Honor Code designed to promote individual responsibility and integrity in academic affairs. Each student pledges the following: “I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole.” Suspected Honor Code violations will be discussed with those involved and reported. Please see https://sites.allegheny.edu/studentsuccess/academic-honor-program/ for more details.\n\n\nEducational Accommodations\nStudents with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898. Student Accessibility and Support Services is located in Pelletier Library. Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see https://sites.allegheny.edu/studentaccessibility/ for more details.\n\n\nSyllabus Changes\nUpdates to this document may be made as needed by the instructors, but any changes will be announced to the class."
   },
   {
     "objectID": "slides/approaching-problems.html#welcome-to-ls-591",
@@ -117,62 +229,6 @@
     "title": "Week 1: Welcome",
     "section": "Discord Access, GitHub Accounts",
     "text": "Discord Access, GitHub Accounts\nSend in this google form to let us know if you are all set up!\n\nBookmark the website\nCheck GitHub account\nCheck Discord access\nCheck intent to register"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "",
-    "text": "Spring 2025\nModule A (1/13/2025 - 2/28/2025)\n2 Credits - pass/fail\nMondays 12-1:30 PM\nAlden 101"
-  },
-  {
-    "objectID": "index.html#description",
-    "href": "index.html#description",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Description",
-    "text": "Description\nThis 2-credit course is designed to refresh topics foundational to Computational Expression (CMPSC 100) and to reinforce beneficial practices related to computer use for majors and non-majors. Topics include computer skills, tech literacy, pattern identification, and algebra-based logic for computational problems. Hands-on learning activities will contribute to team-building and practice widely-applicable strategies for reasoning. Students will receive individualized support, maximizing opportunities for success in computer and information science and related fields."
-  },
-  {
-    "objectID": "index.html#learning-outcomes",
-    "href": "index.html#learning-outcomes",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\n\nNavigate computer with graphical and text-based tools\nSolve computational problems with hierarchical and sequential structures\nIdentify and evaluate resources for troubleshooting computational problems\nDescribe and use mathematical operators and algebra-based logic in computational problems\n\n\nOther Outcomes\nSuccessfully completing this course will give you:\n\nguaranteed slot in CMPSC 100 next semester\none extra homework token for CMPSC 100"
-  },
-  {
-    "objectID": "index.html#schedule-outline",
-    "href": "index.html#schedule-outline",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Schedule Outline",
-    "text": "Schedule Outline\n\nWeek 1 - Jan 13 - Approaching Problems\nWeek 2 - Jan 17 - Executing Instructions\nWeek 3 - Feb 3 - File Systems\nWeek 4 - Feb 10 - Computer Skills\nWeek 5 - Feb 17 - Mathematical Operations\nWeek 6 - Feb 24 - Abstraction and Estimation"
-  },
-  {
-    "objectID": "index.html#activities",
-    "href": "index.html#activities",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Activities",
-    "text": "Activities\n\nPB&J sandwiches (LO 2)\nScavenger Hunt (LO 2)\nFiles (LO 1)\nTyping + Searching (LO 1, L0 3)\nJeopardy (LO 4)\nEstimation (LO 2, LO 4)"
-  },
-  {
-    "objectID": "index.html#resources",
-    "href": "index.html#resources",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Resources",
-    "text": "Resources\n\nDiscord - https://discord.com/channels/877320365825749002/1326701591969140799\nWebsite - https://allegheny-college-ls-591-spring-2025.github.io/site/\nGitHub - https://github.com/allegheny-college-ls-591-fall-2024\nVideos"
-  },
-  {
-    "objectID": "index.html#grading",
-    "href": "index.html#grading",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Grading",
-    "text": "Grading\nCredit/No Credit. Grades will be determined based on participation. Participation includes attendance, asking questions in class, completing in-class group activities, taking notes, and completing individual work outside of class such as writing short reflections."
-  },
-  {
-    "objectID": "index.html#additional-policies",
-    "href": "index.html#additional-policies",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Additional Policies",
-    "text": "Additional Policies\n\nDiscord and GitHub\nDiscord and GitHub are required.\nDiscord is used to:\n\nreceive announcements about this course\nask questions to instructors and colleagues\nanswer questions collaboratively\nprovide a log of past questions/answers for reference\nreceive announcements about TL (technical leader) office hours\nhelp you stay in touch with alumni who often offer internship and job opportunities!\n\nGitHub is used for:\n\nFile sharing, storage, display (and more…)\nEveryone in LS 591 will be able to view and download files from the course GitHub page\nGitHub is used in all CIS department courses at Allegheny College\n\nPlease ensure your GitHub account is made using your Allegheny email address.\n\n\nAbsences\nDue to the short nature of the course, more than 1 absence will automatically result in a failing grade except in extenuating circumstances. Please talk to the instructors if you have further questions.\n\n\nEffective Collaboration\nWe encourage building community by collaborating with others to solve the problems presented in this course.\n\n\nSeeking Assistance\nStudents may seek assistance from their peers, Discord, TLs, instructors.\n\n\nHonor Code\nAllegheny College has a student-run Honor Code designed to promote individual responsibility and integrity in academic affairs. Each student pledges the following: “I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole.” Suspected Honor Code violations will be discussed with those involved and reported. Please see https://sites.allegheny.edu/studentsuccess/academic-honor-program/ for more details.\n\n\nEducational Accommodations\nStudents with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898. Student Accessibility and Support Services is located in Pelletier Library. Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see https://sites.allegheny.edu/studentaccessibility/ for more details.\n\n\nSyllabus Changes\nUpdates to this document may be made as needed by the instructors, but any changes will be announced to the class."
   },
   {
     "objectID": "links.html",

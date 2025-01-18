@@ -16,6 +16,9 @@ format: html
 
 <details>
 <summary>slides</summary>
+```{.markdown code-preview="slides/executing-instructions.qmd" width="780" height="500"}
+```
+[Scavenger Hunt Activity](https://docs.google.com/document/d/1m659nBm16241a9HVVtIv3dAaDAlo06ZRebBpi2syj9E/edit?usp=sharing)
 </details>
 
 ## Week Three: File Systems

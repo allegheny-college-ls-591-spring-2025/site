@@ -1,0 +1,93 @@
+---
+title: "Week 2: Executing Instructions"
+subtitle: "LS 591 Computational Skills and Problem Solving"
+author: "Morgan Green & Emily Graber"
+format: revealjs
+slide-number: true
+touch: true
+controls: true
+---
+
+### Agenda
+
+::: incremental
+- Course Overview
+- Activity
+- Exit Ticket
+:::
+
+## Course Overview
+
+::: incremental
+- This course is a review of computational skills and problem solving strategies that are foundational to Computational Expression (CMPSC 100)
+- Hands-on learning activities will contribute to team-building and practice widely-applicable strategies for reasoning.
+- 2 credits, pass/fail
+- It is imperative to attend class because activities take place in class, collaboratively
+- If you know you cannot attend all the classes, please message Prof. Graber and Green!
+:::
+
+## Course Overview
+
+::: incremental
+The benefits of participating include
+
+- reviewing & learning how to organize and find files on your computer
+- reviewing & learning tricks for troubleshooting computer problems
+- reviewing & practicing problem-solving skills
+- reviewing & practicing algebra-based logic
+- **guaranteed slot in CMPSC 100 next semester**
+- **one extra homework token for CMPSC 100**
+:::
+
+## Activities
+
+::: incremental
+Each week, we have a group activity planned:
+
+- Making PB&J sandwiches
+- Mario scavenger hunt
+- Typing + Wikipedia races
+- Computational jeopardy
+- Estimation 
+:::
+
+## Tell us about yourself
+
+- Two Truths and a Lie
+
+![](https://comicstud.io/c/vigavfofad.png)
+
+## Scavenger Hunt Activity
+
+Use the Activity Sheet linked [here](https://docs.google.com/document/d/1m659nBm16241a9HVVtIv3dAaDAlo06ZRebBpi2syj9E/edit?usp=sharing)
+
+::: incremental
+- Part 1
+  - Split into two groups 
+  - Write instructions for your classmates to find a hidden figurine
+  - Your classmates should be able to follow the instructions even if they've never been on campus before!
+:::
+
+## Scavenger Hunt Activity
+
+Use the Activity Sheet linked [here](https://docs.google.com/document/d/1m659nBm16241a9HVVtIv3dAaDAlo06ZRebBpi2syj9E/edit?usp=sharing)
+
+::: incremental
+- Part 2
+  - Follow the instructions of the other team
+  - Take note of confusing instructions and why they were confusing
+  - Send a discord message when you have found the figurine!
+:::
+
+## Questions
+
+::: incremental
+- Why do you think we did this activity?
+- What kinds of strategies did you use?
+- What general strategies were effective?
+- What general strategies were ineffective?
+:::
+
+## Exit Ticket
+
+Send in [this google form](https://forms.gle/1BqzaxUYCpJiSSXQ6) !
