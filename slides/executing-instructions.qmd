@@ -82,12 +82,17 @@ Use the Activity Sheet linked [here](https://docs.google.com/document/d/1m659nBm
 ## Questions
 
 ::: incremental
-- Why do you think we did this activity?
 - What kinds of strategies did you use?
 - What general strategies were effective?
 - What general strategies were ineffective?
+- What was the overall goal?
+- Were there sub-goals?
+- Were there common repeated actions (verbs)?
 :::
 
 ## Exit Ticket
 
-Send in [this google form](https://forms.gle/1BqzaxUYCpJiSSXQ6) !
+Send in [this google form](https://forms.gle/1BqzaxUYCpJiSSXQ6) about
+registration status.
+
+N.B. registration deadline is Monday, Jan 27th, at 5pm (Today!)
