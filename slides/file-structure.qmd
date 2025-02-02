@@ -1,0 +1,148 @@
+---
+title: "Week 3: File Systems"
+subtitle: "LS 591 Computational Skills and Problem Solving"
+author: "Morgan Green & Emily Graber"
+format: revealjs
+slide-number: true
+touch: true
+controls: true
+scrollable: true
+---
+
+
+## Agenda
+
+::: incremental
+- Explain File Systems
+- Activity
+- Exit Ticket
+:::
+
+# File Systems
+
+## File Systems are Hierarchical
+
+**Folders** (also known as **paths** or **directories**) can hold both files and other folders. A tree metaphor is often used to describe file systems, but a box that holds both objects (files) and other boxes (folders) is another way to think about it.
+
+These are two representations of the same file system. 
+
+:::::: {.columns}
+::: {.column}
+![](/images/file-structure.png){width="70%"}
+:::
+::: {.column}
+```
+└── red
+    ├── yellow
+    │   ├── green
+    │   └── purple
+    └── orange
+```   
+:::
+::::::
+
+   
+## Parents, Children, Siblings
+
+Parents, children, and siblings describe relations between files and folders. In this folder tree, `red` is a parent of `yellow` and `orange`. `Green` and `purple` are children of `yellow`. `Yellow` and `orange` are siblings. 
+
+:::::: {.columns}
+::: {.column}
+![](/images/file-structure.png){width="70%"}
+:::
+::: {.column}
+```
+└── red
+    ├── yellow
+    │   ├── green
+    │   └── purple
+    └── orange
+```   
+:::
+::::::
+
+## Directories
+
+Directory is another word for folder!
+
+![](https://static.vecteezy.com/system/resources/previews/022/457/911/non_2x/folder-with-documents-cartoon-illustration-isolated-on-white-background-vector.jpg)
+
+## Root Directory
+
+The **root** directory is the folder that contains all other directories and files! In this case, `red` contains all the others and could be considered the root.
+
+:::::: {.columns}
+::: {.column}
+![](/images/file-structure.png){width="70%"}
+:::
+::: {.column}
+```
+└── red
+    ├── yellow
+    │   ├── green
+    │   └── purple
+    └── orange
+```   
+:::
+::::::
+
+
+## Path
+
+The full **path** to a certain file should start at the root direct and get more and more specific. For example, the path to purple is `red/yellow/purple`.
+
+:::::: {.columns}
+::: {.column}
+![](/images/file-structure.png){width="70%"}
+:::
+::: {.column}
+```
+└── red
+    ├── yellow
+    │   ├── green
+    │   └── purple
+    └── orange
+```   
+:::
+::::::
+
+## Where are my files?
+
+The file explorer or the terminal can be used to navigate through the file system. Today we will use the file explorer.
+
+- [Finder Demo on Mac](https://vimeo.com/manage/videos/991764220/4e2c2c8003)
+- Demo on Windows
+- Demo on Linux
+- Beware the cloud!
+
+# Activity
+
+Mario characters reference
+
+![](/images/mario-characters.jpg)
+
+## File Structure Activity
+
+Use the Activity Sheet linked [here](https://docs.google.com/document/d/1aIPf2ZkHeOAF-N-qLz71iIwLwx0sdi66zhXGC8bZAQ8/edit?usp=sharing)
+
+::: incremental
+- Part 1
+  - Split into two groups 
+  - Write down the file structure made by the boxes and Mario characters!
+  - Disassemble everything.
+- Part 2
+  - After the structure is written down, exchange structures and recreate the structure of the other group.
+:::
+
+## Questions
+
+::: incremental
+- What were the **files**?
+- What were the **directories**?
+- What was the **root**?
+- Does a file path start out narrow or broad?
+:::
+
+## Exit Ticket
+
+Send in [this google form](https://docs.google.com/forms/d/e/1FAIpQLSeRSiOg223C2_Au4tQS5oOQFStrBDN0RuJuXL18_-pdHHsM3w/viewform?usp=sharing) about your file system.

@@ -25,7 +25,7 @@
     "href": "materials.html#week-three-file-systems",
     "title": "Materials",
     "section": "Week Three: File Systems",
-    "text": "Week Three: File Systems\n\n\nslides"
+    "text": "Week Three: File Systems\n\n\nslides\n\n\nFile Structure Activity"
   },
   {
     "objectID": "materials.html#week-four-computer-skills",
@@ -105,62 +105,6 @@
     "text": "Exit Ticket\nSend in this google form about registration status.\nN.B. registration deadline is Monday, Jan 27th, at 5pm (Today!)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "",
-    "text": "Spring 2025\nModule A (1/13/2025 - 2/28/2025)\n2 Credits - pass/fail\nMondays 12-1:20 PM\nAlden 101"
-  },
-  {
-    "objectID": "index.html#description",
-    "href": "index.html#description",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Description",
-    "text": "Description\nThis 2-credit course is designed to refresh topics foundational to Computational Expression (CMPSC 100) and to reinforce beneficial practices related to computer use for majors and non-majors. Topics include computer skills, tech literacy, pattern identification, and algebra-based logic for computational problems. Hands-on learning activities will contribute to team-building and practice widely-applicable strategies for reasoning. Students will receive individualized support, maximizing opportunities for success in computer and information science and related fields."
-  },
-  {
-    "objectID": "index.html#learning-outcomes",
-    "href": "index.html#learning-outcomes",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\n\nNavigate computer with graphical and text-based tools\nSolve computational problems with hierarchical and sequential structures\nIdentify and evaluate resources for troubleshooting computational problems\nDescribe and use mathematical operators and algebra-based logic in computational problems\n\n\nOther Outcomes\nSuccessfully completing this course will give you:\n\nguaranteed slot in CMPSC 100 next semester\none extra homework token for CMPSC 100"
-  },
-  {
-    "objectID": "index.html#schedule-outline",
-    "href": "index.html#schedule-outline",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Schedule Outline",
-    "text": "Schedule Outline\n\nWeek 1 - Jan 13 - Approaching Problems\nWeek 2 - Jan 17 - Executing Instructions\nWeek 3 - Feb 3 - File Systems\nWeek 4 - Feb 10 - Computer Skills\nWeek 5 - Feb 17 - Mathematical Operations\nWeek 6 - Feb 24 - Abstraction and Estimation"
-  },
-  {
-    "objectID": "index.html#activities",
-    "href": "index.html#activities",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Activities",
-    "text": "Activities\n\nPB&J sandwiches (LO 2)\nMario Scavenger Hunt (LO 2)\nFiles (LO 1)\nTyping + Searching (LO 1, L0 3)\nJeopardy (LO 4)\nEstimation (LO 2, LO 4)"
-  },
-  {
-    "objectID": "index.html#resources",
-    "href": "index.html#resources",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Resources",
-    "text": "Resources\n\nDiscord - https://discord.com/channels/877320365825749002/1326701591969140799\nWebsite - https://allegheny-college-ls-591-spring-2025.github.io/site/\nGitHub - https://github.com/allegheny-college-ls-591-spring-2025\nVideos"
-  },
-  {
-    "objectID": "index.html#grading",
-    "href": "index.html#grading",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Grading",
-    "text": "Grading\nCredit/No Credit. Grades will be determined based on participation. Participation includes attendance, asking questions in class, completing in-class group activities, taking notes, and completing individual work outside of class such as writing short reflections."
-  },
-  {
-    "objectID": "index.html#additional-policies",
-    "href": "index.html#additional-policies",
-    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
-    "section": "Additional Policies",
-    "text": "Additional Policies\n\nDiscord and GitHub\nDiscord and GitHub are required.\nDiscord is used to:\n\nreceive announcements about this course\nask questions to instructors and colleagues\nanswer questions collaboratively\nprovide a log of past questions/answers for reference\nreceive announcements about TL (technical leader) office hours\nhelp you stay in touch with alumni who often offer internship and job opportunities!\n\nGitHub is used for:\n\nFile sharing, storage, display (and more…)\nEveryone in LS 591 will be able to view and download files from the course GitHub page\nGitHub is used in all CIS department courses at Allegheny College\n\nPlease ensure your GitHub account is made using your Allegheny email address.\n\n\nAbsences\nDue to the short nature of the course, more than 1 absence will automatically result in a failing grade except in extenuating circumstances. Please talk to the instructors if you have further questions.\n\n\nEffective Collaboration\nWe encourage building community by collaborating with others to solve the problems presented in this course.\n\n\nSeeking Assistance\nStudents may seek assistance from their peers, Discord, TLs, instructors.\n\n\nHonor Code\nAllegheny College has a student-run Honor Code designed to promote individual responsibility and integrity in academic affairs. Each student pledges the following: “I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole.” Suspected Honor Code violations will be discussed with those involved and reported. Please see https://sites.allegheny.edu/studentsuccess/academic-honor-program/ for more details.\n\n\nEducational Accommodations\nStudents with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898. Student Accessibility and Support Services is located in Pelletier Library. Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see https://sites.allegheny.edu/studentaccessibility/ for more details.\n\n\nSyllabus Changes\nUpdates to this document may be made as needed by the instructors, but any changes will be announced to the class."
-  },
-  {
     "objectID": "slides/approaching-problems.html#welcome-to-ls-591",
     "href": "slides/approaching-problems.html#welcome-to-ls-591",
     "title": "Week 1: Welcome",
@@ -229,6 +173,132 @@
     "title": "Week 1: Welcome",
     "section": "Discord Access, GitHub Accounts",
     "text": "Discord Access, GitHub Accounts\nSend in this google form to let us know if you are all set up!\n\nBookmark the website\nCheck GitHub account\nCheck Discord access\nCheck intent to register"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "",
+    "text": "Spring 2025\nModule A (1/13/2025 - 2/28/2025)\n2 Credits - pass/fail\nMondays 12-1:20 PM\nAlden 101"
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Description",
+    "text": "Description\nThis 2-credit course is designed to refresh topics foundational to Computational Expression (CMPSC 100) and to reinforce beneficial practices related to computer use for majors and non-majors. Topics include computer skills, tech literacy, pattern identification, and algebra-based logic for computational problems. Hands-on learning activities will contribute to team-building and practice widely-applicable strategies for reasoning. Students will receive individualized support, maximizing opportunities for success in computer and information science and related fields."
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\n\nNavigate computer with graphical and text-based tools\nSolve computational problems with hierarchical and sequential structures\nIdentify and evaluate resources for troubleshooting computational problems\nDescribe and use mathematical operators and algebra-based logic in computational problems\n\n\nOther Outcomes\nSuccessfully completing this course will give you:\n\nguaranteed slot in CMPSC 100 next semester\none extra homework token for CMPSC 100"
+  },
+  {
+    "objectID": "index.html#schedule-outline",
+    "href": "index.html#schedule-outline",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Schedule Outline",
+    "text": "Schedule Outline\n\nWeek 1 - Jan 13 - Approaching Problems\nWeek 2 - Jan 17 - Executing Instructions\nWeek 3 - Feb 3 - File Systems\nWeek 4 - Feb 10 - Computer Skills\nWeek 5 - Feb 17 - Mathematical Operations\nWeek 6 - Feb 24 - Abstraction and Estimation"
+  },
+  {
+    "objectID": "index.html#activities",
+    "href": "index.html#activities",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Activities",
+    "text": "Activities\n\nPB&J sandwiches (LO 2)\nMario Scavenger Hunt (LO 2)\nFiles (LO 1)\nTyping + Searching (LO 1, L0 3)\nJeopardy (LO 4)\nEstimation (LO 2, LO 4)"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Resources",
+    "text": "Resources\n\nDiscord - https://discord.com/channels/877320365825749002/1326701591969140799\nWebsite - https://allegheny-college-ls-591-spring-2025.github.io/site/\nGitHub - https://github.com/allegheny-college-ls-591-spring-2025\nVideos"
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Grading",
+    "text": "Grading\nCredit/No Credit. Grades will be determined based on participation. Participation includes attendance, asking questions in class, completing in-class group activities, taking notes, and completing individual work outside of class such as writing short reflections."
+  },
+  {
+    "objectID": "index.html#additional-policies",
+    "href": "index.html#additional-policies",
+    "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
+    "section": "Additional Policies",
+    "text": "Additional Policies\n\nDiscord and GitHub\nDiscord and GitHub are required.\nDiscord is used to:\n\nreceive announcements about this course\nask questions to instructors and colleagues\nanswer questions collaboratively\nprovide a log of past questions/answers for reference\nreceive announcements about TL (technical leader) office hours\nhelp you stay in touch with alumni who often offer internship and job opportunities!\n\nGitHub is used for:\n\nFile sharing, storage, display (and more…)\nEveryone in LS 591 will be able to view and download files from the course GitHub page\nGitHub is used in all CIS department courses at Allegheny College\n\nPlease ensure your GitHub account is made using your Allegheny email address.\n\n\nAbsences\nDue to the short nature of the course, more than 1 absence will automatically result in a failing grade except in extenuating circumstances. Please talk to the instructors if you have further questions.\n\n\nEffective Collaboration\nWe encourage building community by collaborating with others to solve the problems presented in this course.\n\n\nSeeking Assistance\nStudents may seek assistance from their peers, Discord, TLs, instructors.\n\n\nHonor Code\nAllegheny College has a student-run Honor Code designed to promote individual responsibility and integrity in academic affairs. Each student pledges the following: “I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole.” Suspected Honor Code violations will be discussed with those involved and reported. Please see https://sites.allegheny.edu/studentsuccess/academic-honor-program/ for more details.\n\n\nEducational Accommodations\nStudents with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898. Student Accessibility and Support Services is located in Pelletier Library. Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see https://sites.allegheny.edu/studentaccessibility/ for more details.\n\n\nSyllabus Changes\nUpdates to this document may be made as needed by the instructors, but any changes will be announced to the class."
+  },
+  {
+    "objectID": "slides/file-structure.html#agenda",
+    "href": "slides/file-structure.html#agenda",
+    "title": "Week 3: File Systems",
+    "section": "Agenda",
+    "text": "Agenda\n\n\nExplain File Systems\nActivity\nExit Ticket"
+  },
+  {
+    "objectID": "slides/file-structure.html#file-systems-are-hierarchical",
+    "href": "slides/file-structure.html#file-systems-are-hierarchical",
+    "title": "Week 3: File Systems",
+    "section": "File Systems are Hierarchical",
+    "text": "File Systems are Hierarchical\nFolders (also known as paths or directories) can hold both files and other folders. A tree metaphor is often used to describe file systems, but a box that holds both objects (files) and other boxes (folders) is another way to think about it.\nThese are two representations of the same file system.\n\n\n\n\n└── red\n    ├── yellow\n    │   ├── green\n    │   └── purple\n    └── orange"
+  },
+  {
+    "objectID": "slides/file-structure.html#parents-children-siblings",
+    "href": "slides/file-structure.html#parents-children-siblings",
+    "title": "Week 3: File Systems",
+    "section": "Parents, Children, Siblings",
+    "text": "Parents, Children, Siblings\nParents, children, and siblings describe relations between files and folders. In this folder tree, red is a parent of yellow and orange. Green and purple are children of yellow. Yellow and orange are siblings.\n\n\n\n\n└── red\n    ├── yellow\n    │   ├── green\n    │   └── purple\n    └── orange"
+  },
+  {
+    "objectID": "slides/file-structure.html#directories",
+    "href": "slides/file-structure.html#directories",
+    "title": "Week 3: File Systems",
+    "section": "Directories",
+    "text": "Directories\nDirectory is another word for folder!"
+  },
+  {
+    "objectID": "slides/file-structure.html#root-directory",
+    "href": "slides/file-structure.html#root-directory",
+    "title": "Week 3: File Systems",
+    "section": "Root Directory",
+    "text": "Root Directory\nThe root directory is the folder that contains all other directories and files! In this case, red contains all the others and could be considered the root.\n\n\n\n\n└── red\n    ├── yellow\n    │   ├── green\n    │   └── purple\n    └── orange"
+  },
+  {
+    "objectID": "slides/file-structure.html#path",
+    "href": "slides/file-structure.html#path",
+    "title": "Week 3: File Systems",
+    "section": "Path",
+    "text": "Path\nThe full path to a certain file should start at the root direct and get more and more specific. For example, the path to purple is red/yellow/purple.\n\n\n\n\n└── red\n    ├── yellow\n    │   ├── green\n    │   └── purple\n    └── orange"
+  },
+  {
+    "objectID": "slides/file-structure.html#where-are-my-files",
+    "href": "slides/file-structure.html#where-are-my-files",
+    "title": "Week 3: File Systems",
+    "section": "Where are my files?",
+    "text": "Where are my files?\nThe file explorer or the terminal can be used to navigate through the file system. Today we will use the file explorer.\n\nFinder Demo on Mac\nDemo on Windows\nDemo on Linux\nBeware the cloud!"
+  },
+  {
+    "objectID": "slides/file-structure.html#file-structure-activity",
+    "href": "slides/file-structure.html#file-structure-activity",
+    "title": "Week 3: File Systems",
+    "section": "File Structure Activity",
+    "text": "File Structure Activity\nUse the Activity Sheet linked here\n\n\nPart 1\n\nSplit into two groups\nWrite down the file structure made by the boxes and Mario characters!\nDisassemble everything.\n\nPart 2\n\nAfter the structure is written down, exchange structures and recreate the structure of the other group."
+  },
+  {
+    "objectID": "slides/file-structure.html#questions",
+    "href": "slides/file-structure.html#questions",
+    "title": "Week 3: File Systems",
+    "section": "Questions",
+    "text": "Questions\n\n\nWhat were the files?\nWhat were the directories?\nWhat was the root?\nDoes a file path start out narrow or broad?"
+  },
+  {
+    "objectID": "slides/file-structure.html#exit-ticket",
+    "href": "slides/file-structure.html#exit-ticket",
+    "title": "Week 3: File Systems",
+    "section": "Exit Ticket",
+    "text": "Exit Ticket\nSend in this google form about your file system."
   },
   {
     "objectID": "links.html",

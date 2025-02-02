@@ -41,5 +41,8 @@
   },
   "slides/executing-instructions.qmd": {
     "executing-instructions.html": "c55611c7"
+  },
+  "slides/file-structure.qmd": {
+    "file-structure.html": "e0f8bb58"
   }
 }

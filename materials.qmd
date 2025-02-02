@@ -25,6 +25,10 @@ format: html
 
 <details>
 <summary>slides</summary>
+```{.markdown code-preview="slides/file-structure.qmd" width="780" height="500"}
+```
+
+[File Structure Activity](https://docs.google.com/document/d/1aIPf2ZkHeOAF-N-qLz71iIwLwx0sdi66zhXGC8bZAQ8/edit?usp=sharing)
 </details>
 
 ## Week Four: Computer Skills
