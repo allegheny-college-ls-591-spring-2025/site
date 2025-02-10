@@ -35,7 +35,12 @@ format: html
 
 <details>
 <summary>slides</summary>
-[Wikipedia Races](https://wiki-race.com/)
+
+![](slides/search-and-typing.pdf){height=100%}
+
+- [Slides Full Size](slides/search-and-typing.pdf)
+- [Wikipedia Races Activity](https://docs.google.com/document/d/1w_cMIaJ9sXRdjJNqzMmKLXKbJyDBALnY4B7vnL0-Xik/edit?usp=sharing)
+
 </details>
 
 ## Week Five: Mathematical Operations
