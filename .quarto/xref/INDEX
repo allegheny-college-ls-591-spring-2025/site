@@ -44,5 +44,71 @@
   },
   "slides/file-structure.qmd": {
     "file-structure.html": "e0f8bb58"
+  },
+  "slides/jeopardy/misc/5.md": {
+    "5.html": "65f18cd9"
+  },
+  "slides/jeopardy/misc/1.md": {
+    "1.html": "b63a9bd4"
+  },
+  "slides/jeopardy/misc/4.md": {
+    "4.html": "5fbe1e34"
+  },
+  "slides/jeopardy/misc/3.md": {
+    "3.html": "3237f8fb"
+  },
+  "slides/jeopardy/misc/2.md": {
+    "2.html": "1030b0e0"
+  },
+  "slides/jeopardy/vars/5.md": {
+    "5.html": "e8c73d1d"
+  },
+  "slides/jeopardy/vars/1.md": {
+    "1.html": "3dd45262"
+  },
+  "slides/jeopardy/vars/4.md": {
+    "4.html": "0e47b41d"
+  },
+  "slides/jeopardy/vars/3.md": {
+    "3.html": "1b416e55"
+  },
+  "slides/jeopardy/vars/2.md": {
+    "2.html": "9e7c9be8"
+  },
+  "slides/jeopardy/board.md": {
+    "board.html": "dd896613"
+  },
+  "slides/jeopardy/ops/5.md": {
+    "5.html": "4aefacf1"
+  },
+  "slides/jeopardy/ops/1.md": {
+    "1.html": "320ded1e"
+  },
+  "slides/jeopardy/ops/4.md": {
+    "4.html": "e755a13c"
+  },
+  "slides/jeopardy/ops/3.md": {
+    "3.html": "3085fb16"
+  },
+  "slides/jeopardy/ops/2.md": {
+    "2.html": "0d02db70"
+  },
+  "slides/jeopardy/tf/5.md": {
+    "5.html": "b2673b93"
+  },
+  "slides/jeopardy/tf/1.md": {
+    "1.html": "653540a0"
+  },
+  "slides/jeopardy/tf/4.md": {
+    "4.html": "adcb915c"
+  },
+  "slides/jeopardy/tf/3.md": {
+    "3.html": "dc6e43ea"
+  },
+  "slides/jeopardy/tf/2.md": {
+    "2.html": "05c4acab"
+  },
+  "slides/mathematical-operations.qmd": {
+    "mathematical-operations.html": "766fdbe3"
   }
 }

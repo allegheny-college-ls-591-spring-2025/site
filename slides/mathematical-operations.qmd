@@ -1,0 +1,267 @@
+---
+title: "Week 5: Mathematical Operation"
+subtitle: "LS 591 Computational Skills and Problem Solving"
+author: "Morgan Green & Emily Graber"
+format: revealjs
+slide-number: true
+touch: true
+controls: true
+---
+
+## Goals
+
+::: incremental
+- review definition and examples of variables and assignment
+- review definition and examples of operators
+- review the use of operators combined with variable assignment
+- review comparisons
+- explore logs and numeric bases (time permitting)
+- play Jeopardy!
+:::
+
+# Variables
+
+## Definition
+
+::: incremental
+- Variables are convenient names given to real values
+- Values are assigned to a variable by using the `=`
+- The variable name is always on the left-hand side of the `=`
+- The value being assigned is always on the right-hand side of the `=`
+:::
+
+## Examples
+
+::: incremental
+- `a = 10`
+- `b = 20`
+- `first_name = 'Emily'`
+- `year = 2024`
+- `pi = 3.14159`
+:::
+
+# Operators
+
+## Definition
+
+::: incremental
+- Operators are symbols that usually represent arithmetic
+- The order of operations applies in python!
+- PEMDAS: Parentheses, Exponents, Multiplication, and Division (from left to right), Addition and Subtraction (from left to right).
+- Personally, I use parentheses to disambiguate mathematical expressions
+:::
+  
+## Symbols
+
+- `+` plus
+- `-` minus
+- `*` multiply
+- `/` divide
+- `%` modulus
+- `**` power
+
+## Examples
+
+- `2 + 5 * 5` is 5 times 5, then plus 2
+- `5 % 2` is the remainder of 5 divided by 2
+- `5 ** 2` is 5 raised to the power 2, or 5 times 5
+
+## Extended Example
+
+Python is very flexible and can _sometimes_ apply math-like operators to values that are NOT numbers!
+
+- `'Emily' + ' ' + 'Graber'`
+
+## Failing Example
+
+This example does not work.
+
+- `'Emily' / 'Graber'`
+
+## Operators and Assignment
+
+Operators can be used on the right hand side of any variable assignment!
+  
+## Examples
+
+::: incremental
+- `a = 10 + 2` # the value of 23 is assigned to the variable a
+- `b = 20 / 5` # the value of 4 is assigned to the variable b
+- `c = 5 % 2` # the value of 1 is assigned to the variable c
+- `full_name = 'Emily' + ' ' + 'Graber'` # the value of 'Emily Graber' is assigned to the variable full_name
+:::
+
+# Comparison
+
+## Definition {.smaller}
+
+Special symbols can be used to make comparisons between values on the left-hand side and right-hand side.
+
+::: incremental
+- `==` compares values, looking for equality
+- `>` compares values, looking for the left-hand side to be larger
+- `<` compares values, looking for the right-hand side to be larger
+- `>=` compares values, looking for the left-hand side to be larger OR equal to the right-hand side
+- `<=` compares values, looking for the right-hand side to be larger OR equal to the left-hand side
+- `!=` compares values, looking for inequality
+:::
+
+## True and False
+
+If a comparison works out favorably, then we can say it is True! If a comparison does not work out, then was can say it is False.
+  
+## Examples
+
+::: incremental
+- `1 == 1` is True
+- `20 == 10` is False
+- `'Emily' == 'Graber'` is False
+- `'Emily' != 'Graber'` is True
+- `20 >= 10 + 10` is True
+:::
+
+# Common Math in Computation
+
+Note, this is not python syntax
+
+## Factorials
+
+. . .
+
+- `5!` is 5 times 4 times 3 times 2 times 1
+- `6!` is 6 times 5 times 4 times 3 times 2 times 1
+- etc
+
+## Logarithms
+
+. . .
+
+Opposite of powers, demonstrated with a base of 2.
+
+- $2^3$ is 8
+- $log_{2}(8)$ is 3
+
+## Log Example 1
+
+. . .
+
+Personally, I like to think about logarithms as the number of times the base can be divided out of the number until 1 is reached.
+
+::: incremental
+- $log_{2}(8)$
+  - 8 divided by 2 is 4
+  - 4 divided by 2 is 2
+  - 2 divided by 2 is 1
+:::
+
+. . .
+
+It took 3 divisions by 2 to get down to 1.
+
+## Log Example 2
+
+::: incremental
+- $log_{10}(10000)$
+  - 10000 divided by 10 is 1000
+  - 1000 divided by 10 is 100
+  - 100 divided by 10 is 10
+  - 10 divided by 10 is 1
+:::
+
+. . .
+
+It took 4 divisions by 10 to get down to 1.
+
+# Bases
+
+## Warning
+
+The number basis or base is NOT the same as "log base 2"...
+See previous section for more info on logarithms.
+
+## Decimal
+
+Decimal is our normal number/counting system in base 10 with digits 0-9. Places for the digits in
+decimal are multiples of 10.
+
+- 1000 place | 100 place | 10 place | 1 place
+
+## Decimal Example
+
+1000 place | 100 place | 10 place | 1 place  
+In decimal, the number 1101 indicates:
+
+::: incremental
+- 1 * 1000
+- 1 * 100
+- 0 * 10
+- 1 * 1
+- add everything together!
+:::
+
+## Binary
+
+Computers use binary representations of numbers and really, all symbols!
+
+- `0` and `1` are the only binary digits
+- [Binary Solo](https://docs.google.com/presentation/d/106-7jqreOpa_cDKEp-1g5BMoANwMnRBejTjEIE6qxOM/preview?rm=minimal&slide=id.g2efd444bf8d_0_24)
+
+Places for the digits in binary are multiples of 2
+
+- 8 place | 4 place | 2 place | 1 place
+
+## Binary Example
+
+8 place | 4 place | 2 place | 1 place  
+In binary, the number 1101 indicates:
+
+::: incremental
+- 1 * 8
+- 1 * 4
+- 0 * 2
+- 1 * 1
+- add everything together!
+:::
+
+## Base 3
+
+Places for the digits in base 3 are multiples of 3
+
+- 27 place | 9 place | 3 place | 1 place
+
+## Base 3 Example
+
+27 place | 9 place | 3 place | 1 place  
+In base 3, the number 1101 indicates:
+
+::: incremental
+- 1 * 27
+- 1 * 9
+- 0 * 3
+- 1 * 1
+- add everything together!
+:::
+
+## Hex
+
+Hexadecimal is commonly used to represent digital information.
+
+- digits are 0-9, A, B, C, D, E, F
+
+## Questions
+
+- what is the largest digit in binary (base 2)?
+- what is the largest digit in decimal (base 10)?
+- what is the largest digit in base 3?
+- what base number is Hex?
+
+# Activity
+
+## Jeopardy
+
+::: incremental
+- Split into two groups 
+- Choose categories on the Jeopardy board to practice math for computation
+:::
+
+## end

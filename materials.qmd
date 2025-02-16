@@ -47,6 +47,10 @@ format: html
 
 <details>
 <summary>slides</summary>
+```{.markdown code-preview="slides/mathematical-operations.qmd" width="780" height="500"}
+```
+[Jeopardy Activity](slides/jeopardy/board.md)
+
 </details>
 
 ## Week Six: Abstraction and Estimation
