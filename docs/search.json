@@ -669,7 +669,7 @@
     "href": "slides/mathematical-operations.html#examples-2",
     "title": "Week 5: Mathematical Operation",
     "section": "Examples",
-    "text": "Examples\n\n\na = 10 + 2 # the value of 23 is assigned to the variable a\nb = 20 / 5 # the value of 4 is assigned to the variable b\nc = 5 % 2 # the value of 1 is assigned to the variable c\nfull_name = 'Emily' + ' ' + 'Graber' # the value of ‘Emily Graber’ is assigned to the variable full_name"
+    "text": "Examples\n\n\na = 10 + 2 # the value of 12 is assigned to the variable a\nb = 20 / 5 # the value of 4 is assigned to the variable b\nc = 5 % 2 # the value of 1 is assigned to the variable c\nfull_name = 'Emily' + ' ' + 'Graber' # the value of ‘Emily Graber’ is assigned to the variable full_name"
   },
   {
     "objectID": "slides/mathematical-operations.html#definition-2",
@@ -704,7 +704,7 @@
     "href": "slides/mathematical-operations.html#logarithms",
     "title": "Week 5: Mathematical Operation",
     "section": "Logarithms",
-    "text": "Logarithms\n\nOpposite of powers, demonstrated with a base of 2.\n\n\\(2^3\\) is 8\n\\(log_{2}(8)\\) is 3"
+    "text": "Logarithms\n\nOpposite of powers, demonstrated with a base of 2.\n\\(2^3\\) is 8\n\\(log_{2}(8)\\) is 3"
   },
   {
     "objectID": "slides/mathematical-operations.html#log-example-1",

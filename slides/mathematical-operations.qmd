@@ -85,7 +85,7 @@ Operators can be used on the right hand side of any variable assignment!
 ## Examples
 
 ::: incremental
-- `a = 10 + 2` # the value of 23 is assigned to the variable a
+- `a = 10 + 2` # the value of 12 is assigned to the variable a
 - `b = 20 / 5` # the value of 4 is assigned to the variable b
 - `c = 5 % 2` # the value of 1 is assigned to the variable c
 - `full_name = 'Emily' + ' ' + 'Graber'` # the value of 'Emily Graber' is assigned to the variable full_name
@@ -138,8 +138,8 @@ Note, this is not python syntax
 
 Opposite of powers, demonstrated with a base of 2.
 
-- $2^3$ is 8
-- $log_{2}(8)$ is 3
+$2^3$ is 8  
+$log_{2}(8)$ is 3
 
 ## Log Example 1
 
