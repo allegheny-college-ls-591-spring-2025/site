@@ -53,7 +53,7 @@ Successfully completing this course will give you:
 - Week 3 - Feb 3 - [File Systems](materials.qmd#week-three-file-systems)
 - Week 4 - Feb 10 - [Computer Skills](materials.qmd#week-four-computer-skills)
 - Week 5 - Feb 17 - [Mathematical Operations](materials.qmd#week-five-mathematical-operations)
-- Week 6 - Feb 24 - [Abstraction and Estimation](materials.qmd#week-six-abstraction-and-estimation)
+- Week 6 - Feb 24 - [Review](materials.qmd#week-six-review)
 
 ## Activities
 
@@ -62,7 +62,7 @@ Successfully completing this course will give you:
 - Files (LO 1)
 - Typing + Searching (LO 1, L0 3)
 - Jeopardy (LO 4)
-- Estimation (LO 2, LO 4)
+- Trinket (LO 2)
   
 <!-- - Activity 1 - [Estimation (LO 2, LO 4)](/Week1-ApproachingProblems/activity-estimation/)
 - Activity 2 - [Files (LO 1)](/Week2-FileSystems/activity-files/)

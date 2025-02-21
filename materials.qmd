@@ -7,28 +7,49 @@ format: html
 
 <details>
 <summary>slides</summary>
+
 ```{.markdown code-preview="slides/approaching-problems.qmd" width="780" height="500"}
 ```
+
+</details>
+
+<details>
+<summary>Activity</summary>
+
 [PB&J Activity](https://docs.google.com/document/d/1m7O--TNvEK-KEJefZ7IMXnZ2FGdbTyl9ZqxN2UYQn_0/edit?usp=sharing)
+
 </details>
 
 ## Week Two: Executing Instructions
 
 <details>
 <summary>slides</summary>
+
 ```{.markdown code-preview="slides/executing-instructions.qmd" width="780" height="500"}
 ```
+</details>
+
+<details>
+<summary>Activity</summary>
+
 [Scavenger Hunt Activity](https://docs.google.com/document/d/1m659nBm16241a9HVVtIv3dAaDAlo06ZRebBpi2syj9E/edit?usp=sharing)
+
 </details>
 
 ## Week Three: File Systems
 
 <details>
 <summary>slides</summary>
+
 ```{.markdown code-preview="slides/file-structure.qmd" width="780" height="500"}
 ```
+</details>
+
+<details>
+<summary>Activity</summary>
 
 [File Structure Activity](https://docs.google.com/document/d/1aIPf2ZkHeOAF-N-qLz71iIwLwx0sdi66zhXGC8bZAQ8/edit?usp=sharing)
+
 </details>
 
 ## Week Four: Computer Skills
@@ -38,8 +59,14 @@ format: html
 
 ![](slides/search-and-typing.pdf){height=100%}
 
-- [Slides Full Size](slides/search-and-typing.pdf)
-- [Wikipedia Races Activity](https://docs.google.com/document/d/1w_cMIaJ9sXRdjJNqzMmKLXKbJyDBALnY4B7vnL0-Xik/edit?usp=sharing)
+[Slides Full Size](slides/search-and-typing.pdf)
+
+</details>
+
+<details>
+<summary>Activity</summary>
+
+[Wikipedia Races Activity](https://docs.google.com/document/d/1w_cMIaJ9sXRdjJNqzMmKLXKbJyDBALnY4B7vnL0-Xik/edit?usp=sharing)
 
 </details>
 
@@ -47,15 +74,46 @@ format: html
 
 <details>
 <summary>slides</summary>
+
 ```{.markdown code-preview="slides/mathematical-operations.qmd" width="780" height="500"}
 ```
+
+</details>
+
+<details>
+<summary>Activity</summary>
+
 [Jeopardy Activity](slides/jeopardy/board.md)
 
 </details>
 
-## Week Six: Abstraction and Estimation
+## Week Six: Review
 
 <details>
-<summary>slides</summary>
+
+<summary>Problem Sets</summary>
+
+
+
 </details>
 
+<details>
+
+<summary>Activity</summary>
+
+Trinket Activity
+
+When you are finished with this activity, your Trinket should look like a minimal version of the surprised face emoji. Follow the steps below to get there, and feel free to skip a step and come back to it if you're stumped:
+
+Sign into [https://trinket.io/](https://trinket.io/) with your Allegheny Google account, and then open the starter blocks [here](https://trinket.io/glowscript-blocks/cbf2f8904f).
+
+Make your own copy of the code blocks by hitting the Remix button on the upper right of the code editor.
+It looks like this emoji is missing an eye! But if you scroll down you'll see variables for both left_eye and right_eye? You can actually fix by changing the math operation on the x position for one of the eyes. Can you figure out how to do it?
+
+The emoji's face looks more like an alien! Can you change the value of one of the first two variables to make the skin more like a classic emoji?
+
+Can you change another variable's value to make the color of the eyes and mouth look more like a classic emoji?
+
+Once you've made all these changes, one eye color is still out of place! Can you fix this by applying one of the first two varables to the rogue eye's color property?
+
+</details>

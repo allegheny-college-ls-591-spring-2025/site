@@ -4,49 +4,49 @@
     "href": "materials.html",
     "title": "Materials",
     "section": "",
-    "text": "slides\n\n\nPB&J Activity"
+    "text": "slides\n\n\n\n\n\nActivity\n\nPB&J Activity"
   },
   {
     "objectID": "materials.html#week-one-approaching-problems",
     "href": "materials.html#week-one-approaching-problems",
     "title": "Materials",
     "section": "",
-    "text": "slides\n\n\nPB&J Activity"
+    "text": "slides\n\n\n\n\n\nActivity\n\nPB&J Activity"
   },
   {
     "objectID": "materials.html#week-two-executing-instructions",
     "href": "materials.html#week-two-executing-instructions",
     "title": "Materials",
     "section": "Week Two: Executing Instructions",
-    "text": "Week Two: Executing Instructions\n\n\nslides\n\n\nScavenger Hunt Activity"
+    "text": "Week Two: Executing Instructions\n\n\nslides\n\n\n\n\n\nActivity\n\nScavenger Hunt Activity"
   },
   {
     "objectID": "materials.html#week-three-file-systems",
     "href": "materials.html#week-three-file-systems",
     "title": "Materials",
     "section": "Week Three: File Systems",
-    "text": "Week Three: File Systems\n\n\nslides\n\n\nFile Structure Activity"
+    "text": "Week Three: File Systems\n\n\nslides\n\n\n\n\n\nActivity\n\nFile Structure Activity"
   },
   {
     "objectID": "materials.html#week-four-computer-skills",
     "href": "materials.html#week-four-computer-skills",
     "title": "Materials",
     "section": "Week Four: Computer Skills",
-    "text": "Week Four: Computer Skills\n\n\nslides\n\n\n\nSlides Full Size\nWikipedia Races Activity"
+    "text": "Week Four: Computer Skills\n\n\nslides\n\n\nSlides Full Size\n\n\n\nActivity\n\nWikipedia Races Activity"
   },
   {
     "objectID": "materials.html#week-five-mathematical-operations",
     "href": "materials.html#week-five-mathematical-operations",
     "title": "Materials",
     "section": "Week Five: Mathematical Operations",
-    "text": "Week Five: Mathematical Operations\n\n\nslides\n\n\nJeopardy Activity"
+    "text": "Week Five: Mathematical Operations\n\n\nslides\n\n\n\n\n\nActivity\n\nJeopardy Activity"
   },
   {
-    "objectID": "materials.html#week-six-abstraction-and-estimation",
-    "href": "materials.html#week-six-abstraction-and-estimation",
+    "objectID": "materials.html#week-six-review",
+    "href": "materials.html#week-six-review",
     "title": "Materials",
-    "section": "Week Six: Abstraction and Estimation",
-    "text": "Week Six: Abstraction and Estimation\n\n\nslides"
+    "section": "Week Six: Review",
+    "text": "Week Six: Review\n\n\nProblem Sets\n\n\n\n\nActivity\n\nTrinket Activity\nWhen you are finished with this activity, your Trinket should look like a minimal version of the surprised face emoji. Follow the steps below to get there, and feel free to skip a step and come back to it if you’re stumped:\nSign into https://trinket.io/ with your Allegheny Google account, and then open the starter blocks here.\nMake your own copy of the code blocks by hitting the Remix button on the upper right of the code editor. It looks like this emoji is missing an eye! But if you scroll down you’ll see variables for both left_eye and right_eye? You can actually fix by changing the math operation on the x position for one of the eyes. Can you figure out how to do it?\nThe emoji’s face looks more like an alien! Can you change the value of one of the first two variables to make the skin more like a classic emoji?\nCan you change another variable’s value to make the color of the eyes and mouth look more like a classic emoji?\nOnce you’ve made all these changes, one eye color is still out of place! Can you fix this by applying one of the first two varables to the rogue eye’s color property?"
   },
   {
     "objectID": "slides/executing-instructions.html#course-overview",
@@ -361,14 +361,14 @@
     "href": "index.html#schedule-outline",
     "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
     "section": "Schedule Outline",
-    "text": "Schedule Outline\n\nWeek 1 - Jan 13 - Approaching Problems\nWeek 2 - Jan 17 - Executing Instructions\nWeek 3 - Feb 3 - File Systems\nWeek 4 - Feb 10 - Computer Skills\nWeek 5 - Feb 17 - Mathematical Operations\nWeek 6 - Feb 24 - Abstraction and Estimation"
+    "text": "Schedule Outline\n\nWeek 1 - Jan 13 - Approaching Problems\nWeek 2 - Jan 17 - Executing Instructions\nWeek 3 - Feb 3 - File Systems\nWeek 4 - Feb 10 - Computer Skills\nWeek 5 - Feb 17 - Mathematical Operations\nWeek 6 - Feb 24 - Review"
   },
   {
     "objectID": "index.html#activities",
     "href": "index.html#activities",
     "title": "Syllabus: LS591.A1 Computational Skills and Problem Solving",
     "section": "Activities",
-    "text": "Activities\n\nPB&J sandwiches (LO 2)\nMario Scavenger Hunt (LO 2)\nFiles (LO 1)\nTyping + Searching (LO 1, L0 3)\nJeopardy (LO 4)\nEstimation (LO 2, LO 4)"
+    "text": "Activities\n\nPB&J sandwiches (LO 2)\nMario Scavenger Hunt (LO 2)\nFiles (LO 1)\nTyping + Searching (LO 1, L0 3)\nJeopardy (LO 4)\nTrinket (LO 2)"
   },
   {
     "objectID": "index.html#resources",
