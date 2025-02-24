@@ -93,6 +93,9 @@ format: html
 
 <summary>Problem Sets</summary>
 
+- [Problem Set 1: Variables, Datatypes, Arithmetic](https://trinket.io/library/trinkets/361459682c)
+- [Problem Set 2: List, Ranges, For-Loops](https://trinket.io/library/trinkets/ed66de66ca)
+- [Problem Set 3: Conditionals](https://trinket.io/library/trinkets/0eb7528e6b)
 
 
 </details>
